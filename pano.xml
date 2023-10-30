@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18105" start="node11" appversion="6.1.14">
+  <panorama hideabout="1" id="node1">
+    <input overlap="1" width="1344" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="2.4" levelbias="0.400" height="1344" levelingpitch="1.6">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-32.4645" fov="85" tilt="-0.813211" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="120" fovstereographic="270" tilt="90"/>
+    </view>
+    <userdata tags="الرواد 2" copyright="" comment="" description="" customnodeid="" author="" nodeid="node1" longitude="" heading="0" title="الحمام الخارجي" latitude="" datetime="26/2/2023 9:54 AM" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" background="1" textcolor="0x000000" height="20" border="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-287.9" target="" description="" title="باب الشقة" url="{node11}" id="Point01" tilt="-22.59"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" zoomafterinfov="90" blendtime="1" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" useanimation="0" delay="3.00" noderandom="1" nodefilter="" nodedelay="0.00" speed="0.050" returntohorizon="0.000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" sensitivity="8" rubberband="0" contextvr="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" simulatemass="1" invertcontrol="1" speedwheel="1">
+      <menulink text="تم إنشائها بواسطة برنده" url="https://baranda4xr.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input overlap="1" width="1344" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="-0.2" levelbias="0.400" height="1344" levelingpitch="-1.8">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="120" fovstereographic="270" tilt="90"/>
+    </view>
+    <userdata tags="الرواد 2" copyright="" comment="" description="" customnodeid="" author="" nodeid="node2" longitude="" heading="0" title="الحمام الوسط" latitude="" datetime="26/2/2023 9:54 AM" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" background="1" textcolor="0x000000" height="20" border="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" zoomafterinfov="90" blendtime="1" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" useanimation="0" delay="3.00" noderandom="1" nodefilter="" nodedelay="0.00" speed="0.050" returntohorizon="0.000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" sensitivity="8" rubberband="0" contextvr="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" simulatemass="1" invertcontrol="1" speedwheel="1">
+      <menulink text="تم إنشائها بواسطة برنده" url="https://baranda4xr.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input overlap="1" width="1344" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="2.9" levelbias="0.400" height="1344" levelingpitch="1">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="71" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="120" fovstereographic="270" tilt="90"/>
+    </view>
+    <userdata tags="الرواد 2" copyright="" comment="" description="" customnodeid="" author="" nodeid="node3" longitude="" heading="0" title="الصالة" latitude="" datetime="26/2/2023 9:54 AM" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" background="1" textcolor="0x000000" height="20" border="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-112.78" target="" description="" title="المطبخ" url="{node8}" id="Point01" tilt="-5.3"/>
+      <hotspot skinid="ht_node" pan="-123.67" target="" description="" title="ممر الغرف" url="{node12}" id="Point02" tilt="-25.22"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" zoomafterinfov="90" blendtime="1" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" useanimation="0" delay="3.00" noderandom="1" nodefilter="" nodedelay="0.00" speed="0.050" returntohorizon="0.000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" sensitivity="8" rubberband="0" contextvr="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" simulatemass="1" invertcontrol="1" speedwheel="1">
+      <menulink text="تم إنشائها بواسطة برنده" url="https://baranda4xr.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input overlap="1" width="1344" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="2.1" levelbias="0.400" height="1344" levelingpitch="1.1">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="85.421" fov="81" tilt="-2.06913" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="120" fovstereographic="270" tilt="90"/>
+    </view>
+    <userdata tags="الرواد 2" copyright="" comment="" description="" customnodeid="" author="" nodeid="node4" longitude="" heading="0" title="الغرفة الأولي" latitude="" datetime="26/2/2023 9:54 AM" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" background="1" textcolor="0x000000" height="20" border="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-121.11" target="" description="" title="ممر الغرف" url="{node12}" id="Point01" tilt="-7.73"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" zoomafterinfov="90" blendtime="1" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" useanimation="0" delay="3.00" noderandom="1" nodefilter="" nodedelay="0.00" speed="0.050" returntohorizon="0.000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" sensitivity="8" rubberband="0" contextvr="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" simulatemass="1" invertcontrol="1" speedwheel="1">
+      <menulink text="تم إنشائها بواسطة برنده" url="https://baranda4xr.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input overlap="1" width="1344" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="1.9" levelbias="0.400" height="1344" levelingpitch="0.7">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="120" fovstereographic="270" tilt="90"/>
+    </view>
+    <userdata tags="الرواد 2" copyright="" comment="" description="" customnodeid="" author="" nodeid="node6" longitude="" heading="0" title="الغرفة الماستر" latitude="" datetime="26/2/2023 9:54 AM" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" background="1" textcolor="0x000000" height="20" border="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-238.36" target="" description="" title="ممر الغرف" url="{node12}" id="Point01" tilt="-9.94"/>
+      <hotspot skinid="ht_node" pan="-298.12" target="" description="" title="حمام الماستر" url="{node10}" id="Point02" tilt="-8.47"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" zoomafterinfov="90" blendtime="1" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" useanimation="0" delay="3.00" noderandom="1" nodefilter="" nodedelay="0.00" speed="0.050" returntohorizon="0.000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" sensitivity="8" rubberband="0" contextvr="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" simulatemass="1" invertcontrol="1" speedwheel="1">
+      <menulink text="تم إنشائها بواسطة برنده" url="https://baranda4xr.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node7">
+    <input overlap="1" width="1344" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="2.7" levelbias="0.400" height="1344" levelingpitch="2.1">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-87.91" fov="81" tilt="86.91" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="120" fovstereographic="270" tilt="90"/>
+    </view>
+    <userdata tags="الرواد 2" copyright="" comment="" description="" customnodeid="" author="" nodeid="node7" longitude="" heading="0" title="الغرفة الوسط" latitude="" datetime="26/2/2023 9:54 AM" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" background="1" textcolor="0x000000" height="20" border="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-56.74" target="" description="" title="ممر الغرف" url="{node12}" id="Point01" tilt="-4.27"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" zoomafterinfov="90" blendtime="1" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" useanimation="0" delay="3.00" noderandom="1" nodefilter="" nodedelay="0.00" speed="0.050" returntohorizon="0.000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" sensitivity="8" rubberband="0" contextvr="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" simulatemass="1" invertcontrol="1" speedwheel="1">
+      <menulink text="تم إنشائها بواسطة برنده" url="https://baranda4xr.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node8">
+    <input overlap="1" width="1344" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="2" levelbias="0.400" height="1344" levelingpitch="1">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-1.93848" fov="84" tilt="0.577821" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="120" fovstereographic="270" tilt="90"/>
+    </view>
+    <userdata tags="الرواد 2" copyright="" comment="" description="" customnodeid="" author="" nodeid="node8" longitude="" heading="0" title="المطبخ" latitude="" datetime="26/2/2023 9:54 AM" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" background="1" textcolor="0x000000" height="20" border="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-226" target="" description="" title="الصالة" url="{node3}" id="Point01" tilt="-9.64"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" zoomafterinfov="90" blendtime="1" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" useanimation="0" delay="3.00" noderandom="1" nodefilter="" nodedelay="0.00" speed="0.050" returntohorizon="0.000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" sensitivity="8" rubberband="0" contextvr="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" simulatemass="1" invertcontrol="1" speedwheel="1">
+      <menulink text="تم إنشائها بواسطة برنده" url="https://baranda4xr.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input overlap="1" width="1344" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="2.4" levelbias="0.400" height="1344" levelingpitch="0.3">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="170.893" fov="70" tilt="-2.43628" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="120" fovstereographic="270" tilt="90"/>
+    </view>
+    <userdata tags="الرواد 2" copyright="" comment="" description="" customnodeid="" author="" nodeid="node9" longitude="" heading="0" title="الهول" latitude="" datetime="26/2/2023 9:54 AM" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" background="1" textcolor="0x000000" height="20" border="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-76.4" target="" description="" title="الصالة" url="{node3}" id="Point01" tilt="-26.04"/>
+      <hotspot skinid="ht_node" pan="-30.64" target="" description="" title="باب الشقة" url="{node11}" id="Point02" tilt="-15.24"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" zoomafterinfov="90" blendtime="1" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" useanimation="0" delay="3.00" noderandom="1" nodefilter="" nodedelay="0.00" speed="0.050" returntohorizon="0.000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" sensitivity="8" rubberband="0" contextvr="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" simulatemass="1" invertcontrol="1" speedwheel="1">
+      <menulink text="تم إنشائها بواسطة برنده" url="https://baranda4xr.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node10">
+    <input overlap="1" width="1520" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbias="0.400" height="1520" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="106.206" fov="89" tilt="-1.16884" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="120" fovstereographic="270" tilt="90"/>
+    </view>
+    <userdata tags="الرواد 2" copyright="" altitude="397.36" comment="" description="" customnodeid="" author="" nodeid="node10" longitude="32.550653" heading="0" title="حمام الماستر" latitude="15.575075" datetime="26/2/2023 9:54 AM" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" background="1" textcolor="0x000000" height="20" border="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-211.29" target="" description="" title="الغرفة الماستر" url="{node6}" id="Point01" tilt="4.44"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" zoomafterinfov="90" blendtime="1" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" useanimation="0" delay="3.00" noderandom="1" nodefilter="" nodedelay="0.00" speed="0.050" returntohorizon="0.000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" sensitivity="8" rubberband="0" contextvr="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" simulatemass="1" invertcontrol="1" speedwheel="1">
+      <menulink text="تم إنشائها بواسطة برنده" url="https://baranda4xr.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node11">
+    <input overlap="1" width="1344" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="2.1" levelbias="0.400" height="1344" levelingpitch="0.6">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-13.0859" fov="65" tilt="-2.43731" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="120" fovstereographic="270" tilt="90"/>
+    </view>
+    <userdata tags="الرواد 2" copyright="" comment="" description="" customnodeid="" author="" nodeid="node11" longitude="" heading="0" title="باب الشقة" latitude="" datetime="26/2/2023 9:54 AM" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" background="1" textcolor="0x000000" height="20" border="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-21.3" target="" description="" title="الهول" url="{node9}" id="Point01" tilt="-17.33"/>
+      <hotspot skinid="ht_node" pan="-151.1" target="" description="" title="الحمام الخارجي" url="{node1}" id="Point02" tilt="-10.05"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" zoomafterinfov="90" blendtime="1" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" useanimation="0" delay="3.00" noderandom="1" nodefilter="" nodedelay="0.00" speed="0.050" returntohorizon="0.000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" sensitivity="8" rubberband="0" contextvr="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" simulatemass="1" invertcontrol="1" speedwheel="1">
+      <menulink text="تم إنشائها بواسطة برنده" url="https://baranda4xr.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node12">
+    <input overlap="1" width="1344" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="1.5" levelbias="0.400" height="1344" levelingpitch="1.2">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-6.13" fov="85" tilt="1.08" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="120" fovstereographic="270" tilt="90"/>
+    </view>
+    <userdata tags="الرواد 2" copyright="" comment="" description="" customnodeid="" author="" nodeid="node12" longitude="" heading="0" title="ممر الغرف" latitude="" datetime="26/2/2023 9:54 AM" source="" info=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundalpha="1" width="180" enabled="1" backgroundcolor="0xffffff" textalpha="1" wordwrap="1" borderradius="1" background="1" textcolor="0x000000" height="20" border="1" bordercolor="0x000000" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-61.02" target="" description="" title="الغرفة الأولي" url="{node4}" id="Point01" tilt="-15.92"/>
+      <hotspot skinid="ht_node" pan="-16.23" target="" description="" title="الغرفة الوسط" url="{node7}" id="Point02" tilt="-4.78"/>
+      <hotspot skinid="ht_node" pan="-214.43" target="" description="" title="الحمام الوسط" url="{node2}" id="Point03" tilt="-9.47"/>
+      <hotspot skinid="ht_node" pan="-352.71" target="" description="" title="الغرفة الماستر" url="{node6}" id="Point04" tilt="-5.14"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" softedge="0" enabled="1" zoomspeed="2" zoomafteroutfov="20" zoomoutpause="1" zoomafterinfov="90" blendtime="1" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000"/>
+    <autorotate startloaded="0" enabled="1" useanimation="0" delay="3.00" noderandom="1" nodefilter="" nodedelay="0.00" speed="0.050" returntohorizon="0.000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" sensitivity="8" rubberband="0" contextvr="1" lockedkeyboard="0" invertwheel="0" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" simulatemass="1" invertcontrol="1" speedwheel="1">
+      <menulink text="تم إنشائها بواسطة برنده" url="https://baranda4xr.com"/>
+    </control>
+  </panorama>
+  <masternode>
+    <userdata tags="" copyright="" comment="" description="" customnodeid="" author="" nodeid="master" longitude="" heading="0" title="" latitude="" datetime="" source="" info=""/>
+  </masternode>
+</tour>
